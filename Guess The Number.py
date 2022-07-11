@@ -40,6 +40,6 @@ if guess != number:
     print('Nope. The nymber I was thinking of was' + number + '.')
 
 """
-User notes: The program runs but the loop does not break.
-            As a result the desited output can not be reached.
+User notes: The program runs but the loop at line 38 shows error and does not break.
+            As a result the desired output can not be reached.
 """
